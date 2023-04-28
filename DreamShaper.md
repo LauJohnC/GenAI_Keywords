@@ -1,6 +1,6 @@
-# H1 Prompts
+# Prompts
 
-# H2 Styles
+## H2 Styles
 hyper realistic anime masterpiece
 highly contrast water color pastel mix
 digital painting
@@ -27,7 +27,7 @@ UHD render
 HDR render
 
 
-# H2 Enviorment
+## H2 Enviorment
 hyper realistic detailed lighting
 hyper realistic shadows
 particles visible
@@ -41,14 +41,14 @@ highly contrast light
 strong back light
 
 
-# H2 
+## H2
 
 
 
 
 
 # H1 Negative Prompts
-# H2 Body
+## H2 Body
 deformed
 deformities
 mutilated
@@ -62,12 +62,12 @@ head cut
 mutated hands
 fused fingers
 
-# H2 Face
+## H2 Face
 ugly
 face cut
 pooly drawn face
 
-# H2 Bad attributes
+## H2 Bad attributes
 mutation
 bad proportions
 cropped head
