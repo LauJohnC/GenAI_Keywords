@@ -6,9 +6,9 @@ extremly beautiful royal face,
 sharp focus,
 clever eyes,
 realistic eyes,
-red lipstick
-hyper-detailed face
-clear realistic eyes
+red lipstick,
+hyper-detailed face,
+clear realistic eyes,
 
 ## H2 Characteristics
 ethereal,
