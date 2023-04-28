@@ -10,6 +10,9 @@ red lipstick,
 hyper-detailed face,
 clear realistic eyes,
 
+## H2 Body
+pale white skin
+
 ## H2 Characteristics
 ethereal,
 surreal dream,
@@ -70,6 +73,7 @@ hyper realistic,
 ultra realistic,
 hyper detailed,
 super detailed,
+high fidelity,
 
 
 
