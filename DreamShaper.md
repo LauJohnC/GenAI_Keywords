@@ -1,5 +1,23 @@
 # Prompts
 
+## H2 Face
+extremly beautiful woman,
+extremly beautiful royal face,
+sharp focus,
+clever eyes,
+realistic eyes,
+red lipstick
+hyper-detailed face
+clear realistic eyes
+
+## H2 Characteristics
+ethereal,
+surreal dream,
+
+## H2 Image layout
+facial view,
+portrait,
+
 ## H2 Styles
 hyper realistic anime masterpiece,
 highly contrast water color pastel mix,
@@ -13,18 +31,13 @@ colorful,
 rich deep color,
 deliberate,
 concept art,
-hyper detailed,
-super detailed,
 render,
 CGI winning award,
-hyper realistic,
-ultra realistic,
-UHD,
-HDR,
-64k,
 inspired by wlop,
-UHD render,
-HDR render,
+octane render,
+ray tracing,
+delicate intricae iridescent details
+
 
 
 ## H2 Enviorment
@@ -41,16 +54,36 @@ highly contrast light,
 strong back light,
 
 
-## H2
+## H2 Good Attributes
+art station trending
+delicate,
+highly-detailed featrues,
+hyper-detailed
+ultra-detailed
+UHD,
+HDR,
+64k,
+Ultra-High-Definition,
+UHD render,
+HDR render,
+hyper realistic,
+ultra realistic,
+hyper detailed,
+super detailed,
 
 
 
 
 
-# H1 Negative Prompts
+# Negative Prompts
 ## H2 Body
+big breast,
+nudity,
 deformed,
 deformities,
+deformed hands,
+body deformities.
+
 mutilated,
 disfigured,
 malformed limb,
@@ -62,10 +95,14 @@ head cut,
 mutated hands,
 fused fingers,
 
+
 ## H2 Face
 ugly,
 face cut,
+twisted face,
 pooly drawn face,
+crossed eyes,
+ugly eyes,
 
 ## H2 Bad attributes
 mutation,
