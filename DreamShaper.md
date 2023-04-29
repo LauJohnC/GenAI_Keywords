@@ -1,6 +1,7 @@
 # Prompts
 
 ## H2 Face
+hyper detailed perfect face,
 a exquisitely beautiful woman
 extremly beautiful woman,
 extremly beautiful royal face,
@@ -15,18 +16,24 @@ beautiful big eyes,
 intricate silver hair,
 perfect eyes,
 smooth face,
+shining eye,
 
 ## H2 Body
 pale white skin,
 ethereal ceramic white,
 3D delicate tattoos drawing,
 perfect body,
+perfect proportions 
 
 ## H2 Characteristics
 ethereal,
 surreal dream,
 smiling,
 perfect composition,
+kpop idol,
+intricate hyper detailed hair,
+elegant,
+graceful,
 
 ## H2 Image layout
 facial view,
@@ -80,6 +87,7 @@ anime vibes,
 oil painting,
 hyperrealistic,
 digital art by greg rutkowski,
+cinematic lighting,
 
 
 
