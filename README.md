@@ -1,2 +1,2 @@
 # GenAI_Keywords
-Keywords that will leads you beautiful images in GenAIs
+Keywords that will lead you to beautiful images in GenAIs
